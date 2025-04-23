@@ -38,4 +38,10 @@ else
         sudo systemctl stop keepalived
 fi
 ```
+![Снимок 231](https://github.com/user-attachments/assets/6068f00e-3c3a-422d-a059-48c674cdc379)  
+
+![Снимок232](https://github.com/user-attachments/assets/8fde1a6b-935a-4dfa-8b1e-f3a6ee9b32c3)  
+
+![Снимок233](https://github.com/user-attachments/assets/a6ca8461-febe-479a-986f-818a7986e341)
+
 
