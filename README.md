@@ -1,7 +1,7 @@
 # Disaster-recovery_Keepalived
 
-Домашнее задание к занятию 1 «Disaster recovery и Keepalived»  
-Цель задания  
+* Домашнее задание к занятию 1 «Disaster recovery и Keepalived»  
+* Цель задания  
 В результате выполнения этого задания вы научитесь:  
 
 Настраивать отслеживание интерфейса для протокола HSRP;  
